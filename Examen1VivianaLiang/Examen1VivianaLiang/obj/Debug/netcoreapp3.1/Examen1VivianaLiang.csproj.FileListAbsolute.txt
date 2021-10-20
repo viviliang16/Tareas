@@ -1,0 +1,28 @@
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.csproj.AssemblyReference.cache
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.AssemblyInfoInputs.cache
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.AssemblyInfo.cs
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.csproj.CoreCompileInputs.cache
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.exe
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.deps.json
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.runtimeconfig.json
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.runtimeconfig.dev.json
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.dll
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.pdb
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.dll
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.pdb
+C:\Users\vivil\OneDrive\Documentos\PROGRAMACION II\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.genruntimeconfig.cache
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.exe
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.deps.json
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.runtimeconfig.json
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.runtimeconfig.dev.json
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.dll
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\bin\Debug\netcoreapp3.1\Examen1VivianaLiang.pdb
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.csproj.AssemblyReference.cache
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.AssemblyInfoInputs.cache
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.AssemblyInfo.cs
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.csproj.CoreCompileInputs.cache
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.dll
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.pdb
+C:\Users\Meih55\Desktop\Tareas\Examen1VivianaLiang\Examen1VivianaLiang\obj\Debug\netcoreapp3.1\Examen1VivianaLiang.genruntimeconfig.cache
